@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**paulobezerra/paulobezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Paulo Bezerra, I work with software development since 2008. I work with several technicians such as: *Java*, *PHP*, *Python*, *JavaScript*. I know how to make frontend, backand applications and I have some experience with mobile development (Ionic and Kotlin).
 
-Here are some ideas to get you started:
+Here I seek to leave applications that I made to study, lately I am looking to improve the documentation of these applications so that it can serve as an example for those who are studying and also as a portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*If this helps you in any way, you can disclose so that more people can be helped too.*
+
+Outras tecnologias que conheço pelo menos um pouco:
+* Backend: SpringBoot (Java), ExpressJS (NodeJS), Flask (Python)
+* Frontend: Angular, ReactJS e VueJS
+* Mobile: Ionic e Kotlin
+* BD Relacionais: MySQL, PostgreSQL e SQL Server
+* BD NoSQL: Redis e MongoDB
+* DevOps: Docker, Kubernets, Jenkins, CicloCI.
+* Experiência com AWS e Azure.
