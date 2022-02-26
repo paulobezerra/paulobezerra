@@ -14,3 +14,5 @@ Here I seek to leave applications that I made to study, lately I am looking to i
 - NoSQL DB: Redis and MongoDB
 - DevOps: Docker, Kubernets, Jenkins, CicloCI.
 - Experience with AWS and Azure.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulobezerra)](https://github.com/paulobezerra/github-readme-stats)
