@@ -16,3 +16,5 @@ Here I seek to leave applications that I made to study, lately I am looking to i
 - Experience with AWS and Azure.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulobezerra)](https://github.com/paulobezerra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobezerra)](https://github.com/paulobezerra/github-readme-stats)
